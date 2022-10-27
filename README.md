@@ -7,8 +7,11 @@ Rules for this game are:
 2. The player has 6 chances to guess the selected word. We do not require that the guess is a valid word in our version.
 
 3. After each guess, the game indicates which guessed letters are in the word and in the correct position, which guessed letters are in the word but not in the correct position, and which guessed letters aren’t in the word at all.
+  
   a. A guessed letter that is not found anywhere in the word is indicated with a question mark: ?
+  
   b. A guessed letter that is in the word but not in the correct position is indicated with the guessed letter in lower-case.
+  
   c. A guessed letter that is in the word and is in the correct position is indicated with the guessed letter in upper-case.
   
 4. A player can request a hint which will reveal one randomly selected letter in the word. A player gets no more than 2 hints per game.
